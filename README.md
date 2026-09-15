@@ -4,6 +4,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,java" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css" alt="My Skills" />
   </a>
 </p>
