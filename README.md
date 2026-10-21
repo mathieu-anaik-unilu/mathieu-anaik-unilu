@@ -1,7 +1,7 @@
 17-year-old aspiring programmer. I'm currently learning how to code and building small projects to get better at it.  
 
 42 (ref niche d'informaticien). 
-PER ERROREM PROGREDIMUR! Shoutout au N et au B!!! Vive le 7ème art qui ne cessera de m'impressionner. Et vive Philippe Katerine!
+PER ERROREM PROGREDIMUR! Shoutout au N et au B!!! Vive Philippe Katerine!
 
 ### What I'm learning :
 
